@@ -1,6 +1,6 @@
 Repozytorium zawiera implementacje algorytmów A i C z artykułu oraz implementacje dwóch poprawek C unikających śmierci wszystkich kandydatów. Uruchomienie może skończyć się elekcją więcej, niż jednego kandydata, jednak na miarę naszej wiedzy nie skończy się śmiercią wszystkich.
 
-Algorytmy należy uruchamiać komentą
+Algorytmy należy uruchamiać komendą
 
 ```sh
 go run <plik> [--bench]
